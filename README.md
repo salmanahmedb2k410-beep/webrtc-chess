@@ -11,13 +11,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![Made with Vanilla JS](https://img.shields.io/badge/Made%20with-Vanilla%20JS-f7df1e.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![WebRTC](https://img.shields.io/badge/WebRTC-P2P-blue.svg)](https://webrtc.org/)
-[![GitHub release](https://img.shields.io/github/v/release/yourusername/classicchess)](https://github.com/yourusername/classicchess/releases)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/classicchess)](https://github.com/yourusername/classicchess/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/nightrider99/classicchess)](https://github.com/nightrider99/classicchess/releases)
+[![GitHub stars](https://img.shields.io/github/stars/nightrider99/classicchess)](https://github.com/nightrider99/classicchess/stargazers)
 
-[🚀 Live Demo](https://yourusername.github.io/classicchess) • 
+[🚀 Live Demo](https://nightrider99.github.io/classicchess) • 
 [📖 Documentation](docs/) • 
-[🐛 Report Bug](https://github.com/yourusername/classicchess/issues) • 
-[✨ Request Feature](https://github.com/yourusername/classicchess/issues)
+[🐛 Report Bug](https://github.com/nightrider99/classicchess/issues) • 
+[✨ Request Feature](https://github.com/nightrider99/classicchess/issues)
 
 </div>
 
@@ -68,7 +68,7 @@
 ## 🚀 Quick Start
 
 ### 🎯 Play Now (No Installation)
-Simply open the [live demo](https://yourusername.github.io/classicchess) in any modern browser!
+Simply open the [live demo](https://nightrider99.github.io/classicchess) in any modern browser!
 
 ### 📥 Run Locally
 ```bash
