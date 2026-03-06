@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-![Alt text]([https://example.com/path/to/image.jpg](https://github.com/nightrider99/webrtc-chess/blob/f70464ea1167c303011cbd713b5b6955ae85b1a4/assets/IMG_20260306_165056.jpg))
+![Alt image]([https://example.com/path/to/image.jpg](https://github.com/nightrider99/webrtc-chess/blob/f70464ea1167c303011cbd713b5b6955ae85b1a4/assets/IMG_20260306_165056.jpg))
   <br>
 
 # ♔ ClassicChess – The Royal Game
