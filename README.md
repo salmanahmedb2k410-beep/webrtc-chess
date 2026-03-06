@@ -1,6 +1,7 @@
 <div align="center">
   <br>
-  <img src="[[assets/screenshots/classicchess-banner.png](https://github.com/nightrider99/webrtc-chess/blob/149c536300eed485fca270ec6e767a1093fe2545/assets/IMG_20260306_162138.jpg)](https://github.com/nightrider99/webrtc-chess/blob/fce0d1f6f2fe4ccf8f63bed6a5c5e98ea170928f/assets/IMG_20260306_162138.jpg)" alt="ClassicChess Banner" width="600">
+  <img src="![1772793770806263470312348239536](https://github.com/user-attachments/assets/1da2fa26-2a50-420d-8a06-354ce6c12c9d)
+" alt="ClassicChess Banner" width="600">
   <br>
 
 # ♔ ClassicChess – The Royal Game
